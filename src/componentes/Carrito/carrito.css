@@ -1,0 +1,46 @@
+.titulo{
+    text-align: center;
+    background-color: darkgray;
+    height: 100vh;
+    width: 100vw;
+    font-size: 2rem;
+}
+
+.footer-carrito{
+    background-color: black;
+
+width: 100vw;
+    
+}
+
+.text-footer{
+    color:white
+}
+
+* {
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+}
+
+.producto{
+    width: 9rem;
+
+
+}
+
+.texto-producto{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 13rem;
+    
+}
+
+.total-Cantidad-Productos{
+    color: rgb(71, 5, 253);
+    font-size: 1.5rem;
+    background-color: aliceblue;
+    border-radius: 50%;
+}
+
